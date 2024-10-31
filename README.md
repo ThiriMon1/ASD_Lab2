@@ -23,4 +23,5 @@
 ### Additional
 -System can send auto email after booking appointment.
 
-![image](https://github.com/user-attachments/assets/e0717fad-13cb-4d71-9b85-8551ef6150f1)
+![image](https://github.com/user-attachments/assets/70b28490-694a-49e9-828c-816583dfd8bd)
+
